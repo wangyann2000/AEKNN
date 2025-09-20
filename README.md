@@ -2,6 +2,20 @@
 
 Official code of submission "Less is More: Rethinking Unsupervised Anomaly Detection from Autoencoder-based Perspective"
 
+# Contents in each folder
+
+data: Datasets used for training and evaluating
+
+DIS-AD： DIS-AD official code after correction. Run main.py to reimplement.
+
+DRL: DRL official code after correction. Run main.py to reimplement.
+
+MCM: MCM official code after correction. Run main.py to reimplement.
+
+logs: Training and Evaluating logs for each dataset.
+
+Others: AEKNN official code. Run main.py to reimplement.
+
 # Datasets
 
 We conduct experiments on 25 benchmark datasets derived from the Outlier Detection DataSets (ODDS) repository, covering diverse domains such as forensic science, network intrusion, image processing, and linguistics. 
